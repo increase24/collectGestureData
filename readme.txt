@@ -1,0 +1,1 @@
+cmake -DCMAKE_PREFIX_PATH="D:\\envs\\OpenCV\\build";"D:\\envs\\libtorch-win-shared-with-deps-1.4.0\\libtorch"  -G "Visual Studio 15 2017 Win64" --config Release ..

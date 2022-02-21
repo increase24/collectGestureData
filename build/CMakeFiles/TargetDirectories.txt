@@ -1,0 +1,3 @@
+C:/Users/49501/Desktop/handKeypointDection_blazeHand_onnxruntime/build/CMakeFiles/palm-detection.dir
+C:/Users/49501/Desktop/handKeypointDection_blazeHand_onnxruntime/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/49501/Desktop/handKeypointDection_blazeHand_onnxruntime/build/CMakeFiles/ZERO_CHECK.dir
